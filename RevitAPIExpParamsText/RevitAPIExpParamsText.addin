@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\RevitAPITrainig\RevitAPIExpParamsText.dll"</Assembly>
+    <AddInId>AB5B1DD9-B6B7-4DE5-8A0F-E46CAABCC07F</AddInId>
+    <FullClassName>RevitAPIExpParamsText.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Сохраниение параметров стен в файл</Text>
+  </AddIn>
+</RevitAddIns>
